@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## 👩‍💻 About Me
-🗺️ I am a programmer from the Uk.
-🔨 I am currently working on a sorting algorithm visualizer.
-📕 In my spare time I work with polymer clay and go for walks around beaches/parks in my area.
+- 🗺️ I am a programmer from the Uk.
+- 🔨 I am currently working on a sorting algorithm visualizer.
+- 📕 In my spare time I work with polymer clay and go for walks around beaches/parks in my area.
 
 ## 🛠️ Languages and tools
 <div>
