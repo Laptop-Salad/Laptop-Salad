@@ -21,8 +21,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
 
-## 💼 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Laptop-Salad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 
