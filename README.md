@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👩‍💻 About Me
 - 🗺️ I am a programmer from the Uk.
-- 📕 In my spare time I work with polymer clay and go for walks around beaches/parks in my area.
+- 📕 In my spare time I enjoy painting and going for walks at beaches/parks in my area.
 
 ## 🛠️ Languages and tools
 <div>
