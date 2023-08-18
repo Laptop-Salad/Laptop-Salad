@@ -18,10 +18,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 
   &nbsp;
-
-  Hi, I'm Amanda! I'm passionate about building software, as a result I'm always learning
-and creating new projects. I'm also currently a student at North East Scotland College and work at the Student IT Helpdesk.
-</div>
+  </div>
 
 <!-- Skills -->
 ## 🛠️ Languages and Tools
