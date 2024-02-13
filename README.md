@@ -34,8 +34,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Bootstrap" width="40" height="40"/>
 </div>
 
-<!-- Stats -->
-## My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laptop-Salad)](https://github.com/anuraghazra/github-readme-stats)
-
 
